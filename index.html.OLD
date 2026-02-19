@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Technical Account & Integration Architect focused on enterprise integrations, application security, and partner enablement.">
+    <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Guilherme André | Technical Account & Integration Architect</title>
+    <title>Guilherme Andre</title>
 
 <!--
 "If you think you can't, look for instruments to be able to!"
@@ -44,7 +44,7 @@
       <a class="navbar-brand js-scroll-trigger" href="#page-top">
         <span class="d-block d-lg-none">Guilherme Andre</span>
         <span class="d-none d-lg-block">
-          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile2025.png" alt="Guilherme André profile photo">
+          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile2025.png" alt="">
         </span>
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -93,14 +93,6 @@
           <div class="subheading mb-5">
             <a href="mailto:gwandre@gmail.com">gwandre@gmail.com</a>
           </div>
-<div class="subheading mb-3">
-  <span class="text-primary">Technical Account &amp; Integration Architect</span>
-</div>
-<p class="lead mb-4">
-  Client-facing technical leader bridging customers and engineering teams to ensure successful integrations, secure onboarding, and continuous platform optimization.
-  Strong background in enterprise integration, application security (WAF), and mission-critical payment platforms (PIX), with hands-on experience across IBM DataPower,
-  TLS/mTLS, JWT, DevSecOps, cloud and containers.
-</p>
 		  <!--
           <p class="lead mb-5">"If you think you can't, look for instruments to be able to!"</p>
 		  -->
@@ -154,18 +146,12 @@
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">System Solutions Architect</h3>
+              <h3 class="mb-0">Systems Solutions Architect</h3>
               <div class="subheading mb-3">Capgemini</div>
-                          <ul>
-  <li>Acted as primary technical liaison between external partners and internal engineering/product teams for PIX integrations.</li>
-  <li>Led technical integration discussions, requirement clarification and secure onboarding of partners.</li>
-  <li>Implemented and supported IBM DataPower gateways (MPGW, GatewayScript) with JWS/JWT and SSL authentication.</li>
-  <li>Expanded responsibilities into Application Security, implementing and tuning WAF solutions (NGINX as WAF, FortiWeb, Cloudflare) and defining API protection policies (rate limiting, bot mitigation).</li>
-  <li>Managed SSL certificate lifecycle and implemented mutual TLS (mTLS) authentication for secure partner communication.</li>
-  <li>Coordinated critical incident war rooms and escalations, driving troubleshooting across infrastructure, development and external stakeholders.</li>
-  <li>Supported DevSecOps initiatives (CI/CD, automation scripts, observability improvements).</li>
-</ul>
-</div>
+                          <!--
+              <p>description</p>
+                          -->
+            </div>
             <div class="resume-date text-md-right">
               <span class="text-primary">Sep 2020 - Present</span>
             </div>
@@ -175,12 +161,10 @@
             <div class="resume-content mr-auto">
               <h3 class="mb-0">Senior Software Developer</h3>
               <div class="subheading mb-3">Departamento Estadual de Trânsito de Sergipe - DETRAN/SE</div>
-			  <ul>
-  <li>Designed and delivered integrations across infrastructure and development teams, including IBM DataPower (XML Proxy/MPGW) with XSL transformations and SSL authentication.</li>
-  <li>Built APIs and web services using Python Flask, ASP.Net and Classic ASP, integrating with financial institutions and government partners.</li>
-  <li>Implemented secure solutions such as biometric validation and fraud-prevention flows, and supported modernization initiatives on Linux and Red Hat environments.</li>
-</ul>
-</div>
+			  <!--
+              <p>description</p>
+			  -->
+            </div>
             <div class="resume-date text-md-right">
               <span class="text-primary">Jan 2003 - Sep 2020</span>
             </div>
@@ -190,10 +174,10 @@
             <div class="resume-content mr-auto">
               <h3 class="mb-0">Software Developer</h3>
               <div class="subheading mb-3">SGN Solutions</div>
-              <ul>
-  <li>Delivered government-focused desktop solutions using Delphi and Microsoft SQL Server, supporting financial reporting and municipal transport ticketing.</li>
-</ul>
-</div>
+              <!--
+              <p>description</p>
+			  -->
+            </div>
             <div class="resume-date text-md-right">
               <span class="text-primary">Feb 2000 - Sep 2002</span>
             </div>
@@ -203,10 +187,10 @@
             <div class="resume-content mr-auto">
               <h3 class="mb-0">Technology Intern</h3>
               <div class="subheading mb-3">Empresa Sergipana de Tecnologia da Informação - EMGETIS</div>
-              <ul>
-  <li>Supported government datacenter operations during millennium bug mitigation, applying patches and assisting in internal network support and IBM 3270 terminals.</li>
-</ul>
-</div>
+              <!--
+              <p>description</p>
+              -->
+            </div>
             <div class="resume-date text-md-right">
               <span class="text-primary">Jan 1999 - Jan 2000</span>
             </div>
@@ -342,54 +326,28 @@
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
         <div class="my-auto">
           <h2 class="mb-5">Skills</h2>
-<div class="subheading mb-3">Client &amp; Stakeholder Management</div>
-<ul class="fa-ul mb-4">
-  <li><i class="fa-li fa fa-check"></i>Technical requirement gathering and clarification</li>
-  <li><i class="fa-li fa fa-check"></i>Cross-team coordination (Engineering, Infrastructure, Security)</li>
-  <li><i class="fa-li fa fa-check"></i>Incident escalation handling and war-room participation</li>
-  <li><i class="fa-li fa fa-check"></i>Partner onboarding support</li>
-  <li><i class="fa-li fa fa-check"></i>Technical documentation and knowledge sharing</li>
-</ul>
 
-<div class="subheading mb-3">Enterprise Integration &amp; API Architecture</div>
-<ul class="fa-ul mb-4">
-  <li><i class="fa-li fa fa-check"></i>IBM DataPower (MPGW, GatewayScript)</li>
-  <li><i class="fa-li fa fa-check"></i>API Security Design (JWS, JWT, SSL authentication)</li>
-  <li><i class="fa-li fa fa-check"></i>Webhooks &amp; partner integrations</li>
-  <li><i class="fa-li fa fa-check"></i>XML / JSON transformations (XSLT)</li>
-  <li><i class="fa-li fa fa-check"></i>Reverse proxy &amp; gateway architecture (NGINX)</li>
-</ul>
-
-<div class="subheading mb-3">Application Security</div>
-<ul class="fa-ul mb-4">
-  <li><i class="fa-li fa fa-check"></i>WAF: NGINX (as WAF), FortiWeb, Cloudflare WAF</li>
-  <li><i class="fa-li fa fa-check"></i>TLS / mTLS authentication and certificate lifecycle management</li>
-  <li><i class="fa-li fa fa-check"></i>API protection policies, rate limiting &amp; bot mitigation</li>
-</ul>
-
-<div class="subheading mb-3">DevSecOps &amp; Observability</div>
-<ul class="fa-ul mb-4">
-  <li><i class="fa-li fa fa-check"></i>CI/CD pipeline support</li>
-  <li><i class="fa-li fa fa-check"></i>Automation (Shell, Python) &amp; Git workflows</li>
-  <li><i class="fa-li fa fa-check"></i>Log analysis, monitoring and troubleshooting</li>
-  <li><i class="fa-li fa fa-check"></i>Prometheus, Grafana; Ansible (foundational)</li>
-</ul>
-
-<div class="subheading mb-3">Cloud &amp; Containers</div>
-<ul class="fa-ul mb-4">
-  <li><i class="fa-li fa fa-check"></i>AWS (API Gateway, Lambda, RDS, S3, Cognito)</li>
-  <li><i class="fa-li fa fa-check"></i>Azure (integration environments exposure)</li>
-  <li><i class="fa-li fa fa-check"></i>Docker, Kubernetes</li>
-</ul>
-
-<div class="subheading mb-3">Development &amp; Platforms</div>
-<ul class="fa-ul mb-0">
-  <li><i class="fa-li fa fa-check"></i>Python, ASP.Net, Node.js, PHP, Java, C#</li>
-  <li><i class="fa-li fa fa-check"></i>REST APIs; SOAP/XML web services</li>
-  <li><i class="fa-li fa fa-check"></i>Legacy systems integration (Classic ASP)</li>
-  <li><i class="fa-li fa fa-check"></i>Databases: Microsoft SQL Server, MySQL, MariaDB</li>
-</ul>
-
+	  <div class="subheading mb-3">Programming Languages and Tools</div>
+          <ul class="fa-ul mb-0">
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              (15+ years) Classic ASP, HTML, JavaScript, Microsoft SQL Server, Microsoft IIS, CVS;</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              (5+ years) ASP.Net, CSS, JSON, jQuery, MySQL, SOAP/XML, XSL, IBM DataPower, SoftwareAG EntireX;</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              (3+ years): MariaDB, PHP, Linux, Git;</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              (2+ years): C++, Apache, Shell Script, C#;</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              (1+ years): Python, REST API, AWS, Docker;</li>
+	    <li>
+              <i class="fa-li fa fa-check"></i>
+              (Studying): Docker, DevOps, Node.js, Vue.js, React Native;</li>
+          </ul>
 		  
 		  <!--
           <div class="subheading mb-3">Programming Languages &amp; Tools</div>
@@ -459,10 +417,19 @@
         <div class="my-auto">
           <h2 class="mb-5">Languages</h2>
 		  <ul class="fa-ul mb-0">
-<li><i class="fa-li fa fa-check"></i>English – Advanced (Professional Working Proficiency)</li>
-<li><i class="fa-li fa fa-check"></i>Spanish – Advanced (Professional Working Proficiency)</li>
-<li><i class="fa-li fa fa-check"></i>Portuguese – Native</li>
-          
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              English – Advanced</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Spanish - Advanced</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Portuguese - Native</li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              Italian - Studying</li>      
+          </ul>
 		  
         </div>
       </section>
